@@ -1,6 +1,7 @@
 <head>
 	<style>
 		.markdown-body img {
+			max-width: 1280px;
 			width: 1280px;
 			height: 540px;
 		}
