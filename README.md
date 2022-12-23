@@ -1,1 +1,1 @@
-![Coming Soon Banner](/docs/assets/banner.jpg)
+[![Coming Soon Banner](/docs/assets/banner.jpg)](mailto:support@twigtale.com)
