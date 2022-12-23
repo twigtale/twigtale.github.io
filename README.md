@@ -1,5 +1,12 @@
 <head>
 	<style>
+		.markdown-body {
+			margin: auto;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
 		.markdown-body img {
 			max-width: 1280px;
 			width: 1280px;
