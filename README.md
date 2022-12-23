@@ -1,4 +1,5 @@
 <head>
+	<title>Twigtale</title>
 	<style>
 		.markdown-body {
 			margin: auto;
