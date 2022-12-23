@@ -1,1 +1,1 @@
-Updates coming soon.
+![Coming Soon Banner](/docs/assets/banner.jpg)
